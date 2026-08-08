@@ -39,4 +39,4 @@ An interactive HR Analytics dashboard developed using Power BI to analyze employ
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](Hr_analytics.png)
+![HR Analytics Dashboard](HR_Analytics.png)
